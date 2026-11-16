@@ -6,8 +6,7 @@ Projeto desenvolvido na disciplina de Desenvolvimento de Aplicações Web I.
 
 
 ## Integrantes
-- Nome do aluno 1
-- Nome do aluno 2 (se houver)
+Gabrielly Emanuelly Pereira Dias
 
 
 ## Como jogar
@@ -28,4 +27,4 @@ Digite uma letra e clique em Tentar. O objetivo é descobrir a palavra antes de 
 
 
 ## Link do jogo
-
+https://gabyzd.github.io/jogo-palavras/
